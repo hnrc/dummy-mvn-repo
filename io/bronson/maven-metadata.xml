@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Bronson.io Maven plugin</name>
+      <prefix>bronson</prefix>
+      <artifactId>bronson-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
